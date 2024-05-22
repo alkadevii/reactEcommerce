@@ -1,0 +1,5 @@
+.product-list-container {
+  display: flex;
+  flex-wrap: wrap; /* Allow items to wrap to next row if needed */
+  justify-content: space-between;
+}

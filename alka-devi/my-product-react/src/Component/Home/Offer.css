@@ -1,0 +1,22 @@
+
+.offers{
+    background-color: aliceblue;
+    padding: 20px;
+}
+.offer-title{
+    border: solid 2px rgb(175, 228, 240);
+    background-color: rgb(187, 219, 248);
+    color: rgb(2, 46, 65);
+    font-size: 50px;
+    margin: 20px ;
+    text-decoration: underline;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.offer-card{
+    border: 1px;
+}
+.offer-body{
+    background-color: rgb(178, 219, 254);
+    margin: 20px ;
+    border: solid 2px rgb(187, 219, 248);
+}

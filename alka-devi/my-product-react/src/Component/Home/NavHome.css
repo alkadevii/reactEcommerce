@@ -1,0 +1,17 @@
+nav{
+    background-color: aliceblue;
+    height: 50px;
+}
+.nav-item{
+    padding: 5px;
+}
+
+.nav-link{
+
+   
+    color: rgb(2, 109, 176);
+    font-size: large;
+}
+.nav-item > .nav-link.active{
+    color: red;
+}
